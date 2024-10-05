@@ -1,0 +1,10 @@
+C:\Users\HOANG PHUC\source\repos\Gamequayso\Gamequayso\obj\Debug\Gamequayso.csproj.AssemblyReference.cache
+C:\Users\HOANG PHUC\source\repos\Gamequayso\Gamequayso\obj\Debug\Gamequayso.Form1.resources
+C:\Users\HOANG PHUC\source\repos\Gamequayso\Gamequayso\obj\Debug\Gamequayso.Properties.Resources.resources
+C:\Users\HOANG PHUC\source\repos\Gamequayso\Gamequayso\obj\Debug\Gamequayso.csproj.GenerateResource.cache
+C:\Users\HOANG PHUC\source\repos\Gamequayso\Gamequayso\obj\Debug\Gamequayso.csproj.CoreCompileInputs.cache
+C:\Users\HOANG PHUC\source\repos\Gamequayso\Gamequayso\bin\Debug\Gamequayso.exe.config
+C:\Users\HOANG PHUC\source\repos\Gamequayso\Gamequayso\bin\Debug\Gamequayso.exe
+C:\Users\HOANG PHUC\source\repos\Gamequayso\Gamequayso\bin\Debug\Gamequayso.pdb
+C:\Users\HOANG PHUC\source\repos\Gamequayso\Gamequayso\obj\Debug\Gamequayso.exe
+C:\Users\HOANG PHUC\source\repos\Gamequayso\Gamequayso\obj\Debug\Gamequayso.pdb
